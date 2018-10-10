@@ -26,6 +26,11 @@ All the data will be kept encrypted such that the values which will be fed will 
 Once the project period gets over, difference between the allocated and received fund will be estimated and divulged, corresponding to the different administrative levels and hence, the nodes are identified where mismatch of fund is there. The concerned officials will have to answer the same and provide the money which they kept with themselves.
 Possibly, if this idea emerges out to be a success, then in future even due to the fear, the corruption rate is expected to die down and if things are to be documented on a very long term basis for the purpose of checking once relief period is over, the officials are expected to think more wisely before they make any proposals.
 
+<p align="center">
+  <img src="https://github.com/ViniitMe/"/>
+</p>
+
+
 
 Technologies used
 
