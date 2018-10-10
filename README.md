@@ -1,5 +1,5 @@
 # Codefundo
-Microsoft Hackathon : A solution for disaster management
+Microsoft Hackathon : A solution to disaster management
 
 
 Aim  |  Motivation
