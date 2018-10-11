@@ -31,7 +31,6 @@ Possibly, if this idea emerges out to be a success, then in future even due to t
 </p>
 <video width="320" height="240" autoplay>
   <source src="https://github.com/ViniitMe/Light-Detector/blob/master/flow.mkv" type="video/mkv">
-Your browser does not support the video tag.
 </video>
 Fig: Flow of Relief Fund
 
