@@ -30,8 +30,8 @@ Possibly, if this idea emerges out to be a success, then in future even due to t
   <img src="https://github.com/ViniitMe/Light-Detector/blob/master/11.png"/>
 </p>
 
-Fig: Flow of Relief Fund
+<p align="center">Fig: Flow of Relief Fund and Plans</p>
 
-<p align="center">Technologies used</p>
+Technologies used
 
 Structured Query Language (SQL), Relational Database Management System, Microsoft Excel, Microsoft azure, D3.js (Collapsible Tree layout), C/C++ programming Language, Analysis of the data, statistics visualisation 
