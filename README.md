@@ -27,11 +27,10 @@ Once the project period gets over, difference between the allocated and received
 Possibly, if this idea emerges out to be a success, then in future even due to the fear, the corruption rate is expected to die down and if things are to be documented on a very long term basis for the purpose of checking once relief period is over, the officials are expected to think more wisely before they make any proposals.
 
 <p align="center">
-  <img src="https://github.com/ViniitMe/Light-Detector/blob/master/flow.png"/>
   <img src="https://github.com/ViniitMe/Light-Detector/blob/master/11.png"/>
 </p>
 <video width="320" height="240" autoplay>
-  <source src="https://github.com/ViniitMe/Light-Detector/blob/master/flow.mkv" type="video/mkv">
+  <source src="https://github.com/ViniitMe/Light-Detector/blob/master/flow.mp4" type="video/mp4">
 </video>
 Fig: Flow of Relief Fund
 
