@@ -28,6 +28,7 @@ Possibly, if this idea emerges out to be a success, then in future even due to t
 
 <p align="center">
   <img src="https://github.com/ViniitMe/Light-Detector/blob/master/flow.png"/>
+  <img src="https://github.com/ViniitMe/Light-Detector/blob/master/11.png"/>
 </p>
 <video width="320" height="240" autoplay>
   <source src="https://github.com/ViniitMe/Light-Detector/blob/master/flow.mkv" type="video/mkv">
