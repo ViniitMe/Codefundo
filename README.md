@@ -29,13 +29,9 @@ Possibly, if this idea emerges out to be a success, then in future even due to t
 <p align="center">
   <img src="https://github.com/ViniitMe/Light-Detector/blob/master/11.png"/>
 </p>
-<video width="320" height="240" autoplay>
-  <source src="https://github.com/ViniitMe/Light-Detector/blob/master/flow.mp4" type="video/mp4">
-</video>
+
 Fig: Flow of Relief Fund
 
-
-
-Technologies used
+<p align="center">Technologies used</p>
 
 Structured Query Language (SQL), Relational Database Management System, Microsoft Excel, Microsoft azure, D3.js (Collapsible Tree layout), C/C++ programming Language, Analysis of the data, statistics visualisation 
